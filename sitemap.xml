@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://poliw.at/</loc>
+    <loc>/</loc>
     <lastmod>2019-04-06T21:43:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poliw.at/post/poliwat-current-projects/</loc>
+    <loc>/post/poliwat-current-projects/</loc>
     <lastmod>2019-04-06T21:43:29-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://poliw.at/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-04-06T21:43:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poliw.at/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poliw.at/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
